@@ -1,0 +1,29 @@
+﻿生成启动时间为 2014/1/9 16:37:51。
+     1>项目“E:\Program Code\Qt Code\tableViewTest\tableViewTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         d:\Software\Microsoft Visual Studio\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Software\Qt\Qt5.2.0\5.2.0\msvc2010_opengl\include /I.\GeneratedFiles\Debug /ID:\Software\Qt\Qt5.2.0\5.2.0\msvc2010_opengl\include\QtCore /ID:\Software\Qt\Qt5.2.0\5.2.0\msvc2010_opengl\include\QtGui /ID:\Software\Qt\Qt5.2.0\5.2.0\msvc2010_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"E:\Program Code\Qt Code\tableViewTest\Win32\Debug\\" /Fd"E:\Program Code\Qt Code\tableViewTest\Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt table_view.cpp
+         table_view.cpp
+         所有输出均为最新。
+       Link:
+         d:\Software\Microsoft Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.exe" /NOLOGO /LIBPATH:D:\Software\Qt\Qt5.2.0\5.2.0\msvc2010_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.lib" /MACHINE:X86 "E:\Program Code\Qt Code\tableViewTest\Win32\Debug\moc_main_window.obj"
+         "E:\Program Code\Qt Code\tableViewTest\Win32\Debug\moc_table_view.obj"
+         "E:\Program Code\Qt Code\tableViewTest\Win32\Debug\main.obj"
+         "E:\Program Code\Qt Code\tableViewTest\Win32\Debug\table_view.obj"
+         "E:\Program Code\Qt Code\tableViewTest\Win32\Debug\main_window.obj"
+         "E:\Program Code\Qt Code\tableViewTest\Win32\Debug\qrc_tableviewtest.obj"
+         LINK : 没有找到 E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.exe 或上一个增量链接没有生成它；正在执行完全链接
+         tableViewTest.vcxproj -> E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.exe;#1" /manifest "E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.unsuccessfulbuild”。
+         正在对“E:\Program Code\Qt Code\tableViewTest\Win32\Debug\TableView.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Program Code\Qt Code\tableViewTest\tableViewTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.74
